@@ -1,0 +1,2 @@
+# FinalExamLG
+Mongo database
